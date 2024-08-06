@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @daehyeonxyz
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning 
 
