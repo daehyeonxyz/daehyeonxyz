@@ -1,16 +1,18 @@
 # Hi, I'm Daehyeon 👋
 
-**Industrial Engineering → AI Engineer**
-사용자와 비즈니스를 이해하는 AI 엔지니어를 목표로 합니다.
+>**AI Engineer**
+>사용자와 비즈니스를 이해하는 AI 엔지니어를 목표로 합니다.
+
 
 ## 🎓 Education
 
-**Kyung Hee University** - Industrial Engineering (2021 ~ 2028)
-- GPA: 4.33/4.5 (상위 5%)
+**Kyung Hee University** - Industrial & Management Systems Engineering 
+- GPA: 4.33/4.5 
 - Focus: Machine Learning, Optimization, Data Analytics
 
 **FastCampus AI Bootcamp** (2025.12 ~ 2026.07)
 - LLM, RAG, LangChain, Deep Learning
+
 
 ## 🔬 Research
 
@@ -18,6 +20,7 @@
 - LLM-based Digital Wellbeing Systems
 - AI Agent & Conversational Interface Design
 - Publishing: UIST, CSCW (in progress)
+
 
 ## 💻 Tech Stack & Studying
 
@@ -42,6 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 
+
 ## 📊 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daenoeyh)](https://solved.ac/daenoeyh)
@@ -49,5 +53,6 @@
 
 ## 🔗 Links
 
-**Portfolio**: [daehyeon.xyz](https://daehyeon.xyz)  
-**Blog**: Coming soon
+**Portfolio**: [홈페이지](https://daehyeon.xyz)  
+**Blog**: [벨로그](https://velog.io/@daenoeyh/posts)
+**Job** : [링크드인](https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EA%B9%80-a99310337/)
