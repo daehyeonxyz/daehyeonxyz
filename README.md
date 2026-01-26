@@ -1,26 +1,15 @@
 # Hi, I'm Daehyeon 👋
 
->**AI Engineer**
->사용자와 비즈니스를 이해하는 AI 엔지니어를 목표로 합니다.
+**AI Engineer**
+- 산업공학 | UX 리서치 | AI 엔지니어
+- 현재 경희대 UXC Lab에서 LLM 기반 HCI 연구를 진행하고 있습니다.
+- 사용자와 비즈니스를 이해하는 AI 엔지니어를 목표로 합니다.
 
+## 🔗 Links
 
-## 🎓 Education
-
-**Kyung Hee University** - Industrial & Management Systems Engineering 
-- GPA: 4.33/4.5 
-- Focus: Machine Learning, Optimization, Data Analytics
-
-**FastCampus AI Bootcamp** (2025.12 ~ 2026.07)
-- LLM, RAG, LangChain, Deep Learning
-
-
-## 🔬 Research
-
-**UXC Lab, Kyung Hee University** (2025.09 ~ Present)
-- LLM-based Digital Wellbeing Systems
-- AI Agent & Conversational Interface Design
-- Publishing: UIST, CSCW (in progress)
-
+- **Portfolio**: [홈페이지](https://daehyeon.xyz)  
+- **Blog**: [벨로그](https://velog.io/@daenoeyh/posts)
+- **Job** : [링크드인](https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EA%B9%80-a99310337/)
 
 ## 💻 Tech Stack & Studying
 
@@ -45,14 +34,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 
-
-## 📊 Problem Solving
-
+### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daenoeyh)](https://solved.ac/daenoeyh)
-
-
-## 🔗 Links
-
-**Portfolio**: [홈페이지](https://daehyeon.xyz)  
-**Blog**: [벨로그](https://velog.io/@daenoeyh/posts)
-**Job** : [링크드인](https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EA%B9%80-a99310337/)
