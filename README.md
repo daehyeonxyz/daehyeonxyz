@@ -42,22 +42,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 <br>
-
----
-
-<br>
-
-## 📊 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daenoeyh)](https://solved.ac/daenoeyh)
-
-**Target**: Platinum V by 2027 | **Focus**: Algorithm & Data Structure
-
-<br>
-
----
-
-<br>
-
-**Currently**: LLM-based HCI research @ UXC Lab  
-**Goal**: AI Engineer at top-tier tech companies (2027)
